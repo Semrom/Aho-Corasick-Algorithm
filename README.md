@@ -13,9 +13,9 @@ Pour tester notre programme, deux fichiers sont présents : le fichier "TextePou
 
 Mon coéquipier : Rémi SOULIER
 
-Plus d'informations : http://semrom.fr/projets/aho-corasick.php
+Plus d'informations : https://semrom.fr/projets/aho-corasick.php
 
-Documentation Java du projet : http://semrom.fr/doc/aho-corasick
+Documentation Java du projet : https://semrom.fr/doc/aho-corasick
 
 Téléchragement Windows* : http://urlz.fr/2XRk
 

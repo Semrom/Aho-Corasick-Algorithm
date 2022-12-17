@@ -13,7 +13,7 @@ Pour tester notre programme, deux fichiers sont présents : le fichier "TextePou
 
 Mon coéquipier : Rémi SOULIER
 
-Plus d'informations : https://romain-semler.fr/projets/aho-corasick.php
+Plus d'informations : https://romain-semler.fr/projets-universitaires/aho-corasick.php
 
 Documentation Java du projet : https://romain-semler.fr/doc/aho-corasick
 
